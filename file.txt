@@ -1,0 +1,20 @@
+Introduzione alla Programmazione
+
+La programmazione è il processo di scrittura di istruzioni che un computer può eseguire. Queste istruzioni sono scritte in un linguaggio di programmazione, che è un linguaggio formale progettato per comunicare istruzioni a una macchina.
+
+I linguaggi di programmazione più comuni includono:
+- Python
+- JavaScript
+- Java
+- C++
+- C#
+
+Ogni linguaggio di programmazione ha le sue caratteristiche uniche e viene utilizzato per scopi diversi. Ad esempio, Python è noto per la sua semplicità e leggibilità, mentre C++ è utilizzato per applicazioni ad alte prestazioni.
+
+Per iniziare a programmare, è importante comprendere i concetti di base come:
+- Variabili
+- Condizioni
+- Cicli
+- Funzioni
+
+La programmazione è una competenza preziosa nel mondo moderno e può aprire molte opportunità di carriera. Buona fortuna nel tuo viaggio di apprendimento della programmazione!
