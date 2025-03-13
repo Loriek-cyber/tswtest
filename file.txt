@@ -16,5 +16,3 @@ Per iniziare a programmare, è importante comprendere i concetti di base come:
 - Condizioni
 - Cicli
 - Funzioni
-
-La programmazione è una competenza preziosa nel mondo moderno e può aprire molte opportunità di carriera. Buona fortuna nel tuo viaggio di apprendimento della programmazione!
