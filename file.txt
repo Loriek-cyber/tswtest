@@ -9,10 +9,4 @@ I linguaggi di programmazione più comuni includono:
 - C++
 - C#
 
-Ogni linguaggio di programmazione ha le sue caratteristiche uniche e viene utilizzato per scopi diversi. Ad esempio, Python è noto per la sua semplicità e leggibilità, mentre C++ è utilizzato per applicazioni ad alte prestazioni.
-
-Per iniziare a programmare, è importante comprendere i concetti di base come:
-- Variabili
-- Condizioni
-- Cicli
-- Funzioni
+nuweniufnweifni
